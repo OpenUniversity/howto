@@ -10,8 +10,8 @@ git config --global https.proxy https://proxy5b.openu.ac.il:80
 ## Generate access token 
 Log on to github with your browser and follow this instructions:
 ```
-https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens
-https://github.com/settings/tokens
+*[https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens]
+*(https://github.com/settings/tokens)
 ```
 
 ## Store the token on your local machine

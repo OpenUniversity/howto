@@ -1,5 +1,3 @@
-# howto
-Personal help desk
+# Howto Personal Help Desk
 
-## WSL
-* [WSL ](WSL2.md)
+* [Configuring Proxy for using git on OPENU's WSL2](WSL2.md)
